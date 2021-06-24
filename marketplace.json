@@ -1,15 +1,22 @@
 {
     "app_name": "Redis-Racing",  
     "description": "Competitive web racing game powered by Redis", 
-    "hidden": true,
-    "rank": 21, 
+    "rank": 70, 
     "type": "Full App", 
     "contributed_by": "Community", 
-    "repo_url": "https://github.com/PerryGraham/Redis-Racing", 
-    "download_url": "https://github.com/PerryGraham/Redis-Racing/archive/refs/heads/main.zip",
+    "repo_url": "https://github.com/redis-developer/Redis-Racing", 
+    "download_url": "https://github.com/redis-developer/Redis-Racing/archive/refs/heads/main.zip",
     "hosted_url": "https://jpasqui.dev/racing", 
-    "quick_deploy": false,
-    "deploy_buttons": [],
+    "quick_deploy": true,
+    "deploy_buttons": [
+        {
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/Redis-Racing.git" 
+        },
+        {
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/Redis-Racing.git" 
+        }
+    ],
+    
     "language": [
         "JavaScript",
         "C#"
@@ -25,5 +32,5 @@
     "youtube_url": "https://www.youtube.com/watch?v=FtI-YbQVucg", 
     "special_tags": ["videogame","web game", "racing","gaming","competitive","driving","hackathon"], 
     "verticals": ["Technology"],  
-    "markdown": "https://raw.githubusercontent.com/PerryGraham/Redis-Racing/main/README.md",
+    "markdown": "https://raw.githubusercontent.com/redis-developer/Redis-Racing/main/README.md",
 }
