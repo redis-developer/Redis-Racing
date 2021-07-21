@@ -19,7 +19,8 @@
     
     "language": [
         "JavaScript",
-        "C#"
+        "C#",
+        "NodeJS"
     ],
     "redis_commands": [
         "JSON.GET",
