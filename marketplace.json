@@ -31,7 +31,7 @@
     "redis_features": ["caching"],
     "redis_modules": ["RedisJSON"],
     "app_image_urls": ["https://github.com/redis-developer/Redis-Racing/blob/main/images/screenshot.png?raw=true"],
-    "youtube_url": "https://www.youtube.com/watch?v=FtI-YbQVucg", 
+    "youtube_url": "https://www.youtube.com/watch?v=Tq3yoIn4hLc", 
     "special_tags": ["videogame","web game", "racing","gaming","competitive","driving","hackathon"], 
     "verticals": ["Technology", "Gaming"],  
     "markdown": "https://raw.githubusercontent.com/redis-developer/Redis-Racing/main/README.md"
