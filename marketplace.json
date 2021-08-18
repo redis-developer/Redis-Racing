@@ -28,7 +28,7 @@
         "JSON.SET",
         "JSON.DEL"
     ],
-    "redis_features": ["caching"],
+    "redis_features": ["Caching"],
     "redis_modules": ["RedisJSON"],
     "app_image_urls": ["https://github.com/redis-developer/Redis-Racing/blob/main/images/screenshot.png?raw=true"],
     "youtube_url": "https://www.youtube.com/watch?v=Tq3yoIn4hLc", 
