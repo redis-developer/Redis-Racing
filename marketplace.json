@@ -7,7 +7,7 @@
     "repo_url": "https://github.com/redis-developer/Redis-Racing", 
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/Redis-Racing/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/Redis-Racing/archive/refs/heads/main.zip",
-    "hosted_url": "https://jpasqui.dev/racing", 
+    "hosted_url": "", 
     "quick_deploy": "false",
     "deploy_buttons": [
         {
