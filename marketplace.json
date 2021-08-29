@@ -1,7 +1,7 @@
 {
     "app_name": "Redis-Racing",  
     "description": "Competitive web racing game powered by Redis", 
-    "rank": "70", 
+    "rank": 70, 
     "type": "Full App", 
     "contributed_by": "Community", 
     "repo_url": "https://github.com/redis-developer/Redis-Racing", 
