@@ -1,23 +1,23 @@
 {
-    "app_name": "Redis Racing",  
-    "description": "Competitive web racing game powered by Redis", 
-    "rank": 70, 
-    "type": "Full App", 
-    "contributed_by": "Community", 
-    "repo_url": "https://github.com/redis-developer/Redis-Racing", 
+    "app_name": "Redis Racing",
+    "description": "Competitive web racing game powered by Redis",
+    "rank": 70,
+    "type": "Full App",
+    "contributed_by": "Community",
+    "repo_url": "https://github.com/redis-developer/Redis-Racing",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/Redis-Racing/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/Redis-Racing/archive/refs/heads/main.zip",
-    "hosted_url": "", 
+    "hosted_url": "",
     "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/Redis-Racing.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/Redis-Racing.git"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/Redis-Racing.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/Redis-Racing.git"
         }
     ],
-    
+
     "language": [
         "JavaScript",
         "C#",
@@ -28,11 +28,11 @@
         "JSON.SET",
         "JSON.DEL"
     ],
-    "redis_features": ["Caching"],
-    "redis_modules": ["RedisJSON"],
+    "redis_use_cases": ["Caching"],
+    "redis_features": ["JSON"],
     "app_image_urls": ["https://github.com/redis-developer/Redis-Racing/blob/main/images/screenshot.png?raw=true"],
-    "youtube_url": "https://www.youtube.com/watch?v=Tq3yoIn4hLc", 
-    "special_tags": ["Hackathon"], 
-    "verticals": ["Gaming"],  
+    "youtube_url": "https://www.youtube.com/watch?v=Tq3yoIn4hLc",
+    "special_tags": ["Hackathon"],
+    "verticals": ["Gaming"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/Redis-Racing/main/README.md"
 }
